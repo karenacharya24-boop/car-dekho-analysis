@@ -1,7 +1,6 @@
 """
 Car Dekho Market Trends Analysis
-File: Car_Dekho_Analysis.py
-Author: Your Name
+File: car_analysis.py
 Description: Exploratory Data Analysis & Depreciation Modeling on Used Cars Data
 """
 
@@ -13,7 +12,8 @@ import seaborn as sns
 # ==========================================
 # 1. Load Dataset
 # ==========================================
-df = pd.read_csv("1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv")
+# Clean filename matching the repository dataset
+df = pd.read_csv("car_data.csv")
 
 # ==========================================
 # 2. Data Inspection
@@ -26,8 +26,8 @@ print("\nData Summary:\n", df.describe(include="all").T)
 # ==========================================
 # 3. Data Cleaning & Feature Engineering
 # ==========================================
-# Drop duplicate records
-print("Duplicate Rows Count:", df.duplicated().sum())
+# Remove duplicate entries
+print("\nDuplicate Rows Count:", df.duplicated().sum())
 df = df.drop_duplicates().copy()
 
 # Compute Vehicle Age, Absolute & Percentage Depreciation, and Brand
