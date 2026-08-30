@@ -18,17 +18,17 @@ This project processes marketplace data from CarDekho to answer key business que
 
 ## 📊 Key Findings
 
-* **Manufacturing Years: 2003 - 2018
-* **Lowest Selling Price: 0.1
-* **Highest Selling Price: 35.0
-* **Total Records: 301
-* **Missing Values: 0
-* **Different Vehicles: 98
-* **Most Sold Vehicle: city
-* **CNG Vehicles: 2
-* **Individual Sellers: 106
-* **Automatic Vehicles: 40
-* **Single-owner Vehicles: 10
+- **Manufacturing Years:** 2003 - 2018
+- **Lowest Selling Price:** 0.1
+- **Highest Selling Price:** 35.0
+- **Total Records:** 301
+- **Missing Values:** 0
+- **Different Vehicles:** 98
+- **Most Sold Vehicle:** city
+- **CNG Vehicles:** 2
+- **Individual Sellers:** 106
+- **Automatic Vehicles:** 40
+- **Single-owner Vehicles:** 10
 
 ---
 
