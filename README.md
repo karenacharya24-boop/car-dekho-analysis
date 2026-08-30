@@ -11,7 +11,7 @@ This project processes marketplace data from CarDekho to answer key business que
 
 ## 📂 Repository Structure
 * `car_analysis.py` — Main Python script containing data cleaning, exploratory analysis, and dashboard visualizations.
-* `1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv` — Dataset file.
+* `car_data.csv` — Raw marketplace dataset.
 * `README.md` — Project documentation.
 
 ---
@@ -29,3 +29,10 @@ This project processes marketplace data from CarDekho to answer key business que
 * **Top Retaining Brands:** Hyundai, Honda, Maruti (<25% average value loss)
 * **Primary Depreciation Factors:** Vehicle Age ($r = 0.85$) and Kilometers Driven ($r = 0.51$)
 
+---
+
+## 🛠️ How to Run
+1. Clone or download this repository.
+2. Install the required dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
