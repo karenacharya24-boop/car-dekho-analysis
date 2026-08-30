@@ -10,8 +10,8 @@ This project processes marketplace data from CarDekho to answer key business que
 ---
 
 ## 📂 Repository Structure
-* `car_analysis.py` — Main Python script containing data cleaning, exploratory analysis, and dashboard visualizations.
-* `car_data.csv` — Raw marketplace dataset.
+* `car_analysis.ipynb` — Interactive Jupyter Notebook containing data cleaning, exploratory analysis, and rendered dashboard visualizations.
+* `1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv` — Raw marketplace dataset.
 * `README.md` — Project documentation.
 
 ---
@@ -35,4 +35,4 @@ This project processes marketplace data from CarDekho to answer key business que
 1. Clone or download this repository.
 2. Install the required dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn
+   pip install pandas numpy matplotlib seaborn jupyter
