@@ -18,16 +18,17 @@ This project processes marketplace data from CarDekho to answer key business que
 
 ## 📊 Key Findings
 
-* **Year Range:** 2003 to 2018
-* **Selling Price Range:** ₹0.10 Lakh (₹10,000) to ₹35.00 Lakhs
-* **Total Records:** 299 listings (after removing duplicates)
-* **Most Sold Vehicle:** Honda City (26 listings)
-* **Fuel Distribution:** Petrol (239), Diesel (58), CNG (2)
-* **Transmission Type:** Manual (259), Automatic (40)
-* **Single-Owner Vehicles:** 290 listings (`Owner == 0` denotes first owner)
-* **Most Depreciated Vehicle (%):** Toyota Camry (89.46% value lost)
-* **Top Retaining Brands:** Hyundai, Honda, Maruti (<25% average value loss)
-* **Primary Depreciation Factors:** Vehicle Age ($r = 0.85$) and Kilometers Driven ($r = 0.51$)
+* **Manufacturing Years: 2003 - 2018
+* **Lowest Selling Price: 0.1
+* **Highest Selling Price: 35.0
+* **Total Records: 301
+* **Missing Values: 0
+* **Different Vehicles: 98
+* **Most Sold Vehicle: city
+* **CNG Vehicles: 2
+* **Individual Sellers: 106
+* **Automatic Vehicles: 40
+* **Single-owner Vehicles: 10
 
 ---
 
