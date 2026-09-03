@@ -12,6 +12,7 @@ This project processes marketplace data from CarDekho to answer key business que
 ## 📂 Repository Structure
 * `car_analysis.ipynb` — Interactive Jupyter Notebook containing data cleaning, exploratory analysis, and rendered dashboard visualizations.
 * `1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv` — Raw marketplace dataset.
+* `Karen Acharya Car Dekho Analysis.pptx` — Project ppt.
 * `README.md` — Project documentation.
 
 ---
