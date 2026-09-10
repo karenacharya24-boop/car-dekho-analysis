@@ -1,4 +1,10 @@
 # 🚗 Car Dekho Used Car Market Analysis
+## VOIS Mini Project
+## Edunet Foundation
+
+**Student:** Karen Acharya
+
+**AICTE STU ID:** STU6a66eedfe85331785130719
 
 An exploratory data analysis (EDA) project analyzing used car market trends, price distributions, brand retention, and depreciation factors using Python.
 
