@@ -6,6 +6,9 @@
 
 **AICTE STU ID:** STU6a66eedfe85331785130719
 
+**College Name:** Techno India University, Kolkata, West Bengal
+
+
 An exploratory data analysis (EDA) project analyzing used car market trends, price distributions, brand retention, and depreciation factors using Python.
 
 ---
