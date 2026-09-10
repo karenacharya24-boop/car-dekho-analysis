@@ -9,11 +9,10 @@
 **College Name:** Techno India University, Kolkata, West Bengal
 
 
-An exploratory data analysis (EDA) project analyzing used car market trends, price distributions, brand retention, and depreciation factors using Python.
-
 ---
 
 ## 📌 Project Overview
+An exploratory data analysis (EDA) project analyzing used car market trends, price distributions, brand retention, and depreciation factors using Python.
 This project processes marketplace data from CarDekho to answer key business questions regarding vehicle manufacturing years, pricing extremes, brand value retention, and primary factors driving depreciation.
 
 ---
